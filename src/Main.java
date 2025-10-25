@@ -15,5 +15,6 @@ class mahasiswa{
         System.out.println("Login berhasil!");
         System.out.println("Nama " + nama);
         System.out.println("Nim " + nim);
+        System.out.println("data sudah diinput");
     }
 }
